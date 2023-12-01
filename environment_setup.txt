@@ -1,0 +1,4 @@
+VS code intall (extentions: dracula,live server,mysql,vscode icon,)
+xampp install
+node install
+composer install and link with php.exe file
